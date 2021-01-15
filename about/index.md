@@ -18,16 +18,24 @@ comments: false
 - github
     - [https://github.com/Zzu-h](https://github.com/Zzu-h)
 
+<br>
+<br>
 
 ## Activities
 #### 2017 인하대학교 메이커톤 (2017. 09)    
 #### 2021 인하대학교 IUPC 프로그래밍 경진대회 (2021.01)
+
+<br>
+<br>
 
 ## Technical Skills
 #### FrontEnd: HTML/CSS,javascript
 #### Android Application: Android
 #### Database: MariaDB
 #### c++, java, python
+
+<br>
+<br>
 
 ## Education
 인하대학교 - Inha University 컴퓨터공학과
