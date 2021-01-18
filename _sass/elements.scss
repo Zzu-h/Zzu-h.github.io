@@ -24,25 +24,25 @@
 	@extend %btnextend;
 	&.btn-success {
       background-color: $success;
-      color: #282828;
+      color: $white;
       border-color: $success;
       &:visited {
-        color: #282828;
+        color: $white;
       }
       &:hover {
-        background-color: #282828;
+        background-color: $white;
         color: $success;
       }
     }
     &.btn-warning {
       background-color: $warning;
-      color: #282828;
+      color: $white;
       border-color: $warning;
       &:visited {
-        color: #282828;
+        color: $white;
       }
       &:hover {
-        background-color: #282828;
+        background-color: $white;
         color: $warning;
       }
     }
