@@ -8,7 +8,7 @@ logo:               'https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fn
 background:         'https://blog.kakaocdn.net/dn/bA0ULO/btqTNAt54Bs/kAfBRTkQP5rouFrwfdpZ3k/img.jpg' # 'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko_KR
-url:                https://Zzu-h.github.io/
+url:                https://Zzu-h.github.io
 
 # Jekyll
 permalink:          /:title/
