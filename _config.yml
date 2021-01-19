@@ -5,7 +5,7 @@ description:        "개발자가 되고픈 Dev_Zu입니다."
 reading_time:       true
 words_per_minute:   200
 logo:               'https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory3.daumcdn.net%2Ftistory%2F4052345%2Fattach%2F1a11ecaf246a44e294dce119b48872c8' # 'assets/img/logo.png'
-background:         'https://blog.kakaocdn.net/dn/HncS8/btqT0sWtFBC/fIuJmtvONNWYGKsTyWrlQ1/img.png' # 'assets/img/placeholder-big.jpg'
+background:         'https://blog.kakaocdn.net/dn/bA0ULO/btqTNAt54Bs/kAfBRTkQP5rouFrwfdpZ3k/img.jpg' # 'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko_KR
 url:                https://Zzu-h.github.io
