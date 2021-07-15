@@ -1,30 +1,30 @@
 //colors
-$bodycolor           : #D24D57;
-$black           	 : #000;
-$white               : #fff;
-$color_gray          : #e8e8e8;
-$red                 : #FF4136;
-$maroon              : #85144b;
-$color_tuatara       : #383838;
-$color_shark         : #282828;
-$color_mischka       : #d0d1d5;
-$color_mercury       : #e5e6e9;
-$color_bon_jour      : #dfe0e4;
-$color_gallery       : #f0f0f0;
-$color_stack         : #8c8b8b;
-$color_alabaster     : #f9f9f9;
-$color_tundora       : #444;
-$color_fuscous_gray  : #555;
-$color_alabaster     : #fcfcfc;
-$color_celeste       : #ccc;
-$color_pink_swan     : #bbb;
-$comp-color 	     : complement(#222); 
+$bodycolor           : complement(#D24D57);
+$black           	 : complement(#000);
+$white               : complement(#fff);
+$color_gray          : complement(#e8e8e8);
+$red                 : complement(#FF4136);
+$maroon              : complement(#85144b);
+$color_tuatara       : complement(#383838);
+$color_shark         : complement(#282828);
+$color_mischka       : complement(#d0d1d5);
+$color_mercury       : complement(#e5e6e9);
+$color_bon_jour      : complement(#dfe0e4);
+$color_gallery       : complement(#f0f0f0);
+$color_stack         : complement(#8c8b8b);
+$color_alabaster     : complement(#f9f9f9);
+$color_tundora       : complement(#444);
+$color_fuscous_gray  : complement(#555);
+$color_alabaster     : complement(#fcfcfc);
+$color_celeste       : complement(#ccc);
+$color_pink_swan     : complement(#bbb);
+$comp-color 	     : #222; 
 
 //button colors
-$success			 : #5cb85c;
-$warning			 : #dd8338;
-$danger				 : #C64537;
-$info		         : #308cbc;
+$success			 : complement(#5cb85c);
+$warning			 : complement(#dd8338);
+$danger				 : complement(#C64537);
+$info		         : complement(#308cbc);
 
 //fonts
 $font1               : Fira Sans,sans-serif;
