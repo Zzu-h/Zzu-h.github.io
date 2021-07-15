@@ -1,0 +1,8 @@
+# Spring boot
+- 이 내용은 개인적으로 공부를 위한 곳입니다
+# 🏷 출저
+![springboot](https://t1.daumcdn.net/cfile/tistory/99FF933E5B3AF4730A)
+
+- 본 프로젝트는 개인 학습을 목적으로 윤석진 저자의 "스프링 부트로 배우는 자바 웹 개발"(Jpub) 교재 내용을 요약 및 일부 수정하여 작성하였습니다.
+- 본 프로젝트의 내용과 코드에 대한 저작권은 윤석진과 Jpub에 있으며, Jpub의 규정을 준수하여 게시하였음을 밝힙니다.
+- [도서 소개](https://jpub.tistory.com/815)
