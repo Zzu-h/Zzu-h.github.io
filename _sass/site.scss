@@ -220,3 +220,37 @@ header .entry-meta {
         background-position: center center;
     }
 }
+
+.post_wrapper{
+	float: right;
+	width: 70%;
+	margin: 2rem 1rem;
+	position: relative;
+	  background: $white;
+	  color: $color_tuatara;
+	  padding: 2em;
+	  border-radius: 3px;
+	  box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	  @include transition(.5s);
+	  @media #{$small} {
+		  width: 90%;
+		  padding: 2em 0;
+		box-shadow: none;
+	  }
+  }
+  
+  .category_box {
+	position: fixed;
+	top: 8rem;
+	left: 1rem;
+	width: 25%;
+	  background: $white;
+	  color: $color_tuatara;
+	  padding: 2em;
+	  border-radius: 3px;
+	  box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+  
+	  @media #{$small} {
+		  visibility: hidden;
+	  }
+  }
