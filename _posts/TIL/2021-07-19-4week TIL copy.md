@@ -16,4 +16,8 @@ categories : TIL
 ## 오늘 한 일    
 - 링크: [REST API 2](https://l-zzu-h.tistory.com/entry/REST-API-2)
 
+# 2021-07-21
+## 오늘 한 일    
+- 링크: [Annotation](https://l-zzu-h.tistory.com/entry/Annotation)
+
 # 내일 할 일
