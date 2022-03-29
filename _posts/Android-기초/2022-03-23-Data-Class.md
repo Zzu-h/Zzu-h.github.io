@@ -3,6 +3,7 @@ layout: post
 title: "Android: Data Class"
 date: 2022-03-23
 excerpt: "Data Class"
+tags: [UMC, Data Class, Android]
 comments: true
 categories : Android-기초
 ---
