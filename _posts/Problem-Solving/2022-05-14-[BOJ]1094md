@@ -1,0 +1,39 @@
+---
+layout: post
+title: "[BOJ] 1094 막대기"
+date: 2022-05-14
+excerpt: "[BOJ] 1094 막대기"
+tags: [PS, BOJ, silver, bitmasking]
+comments: true
+categories : problem-solving
+---
+
+# 막대기
+
+링크: [https://www.acmicpc.net/problem/1094](https://www.acmicpc.net/problem/1094)
+
+간단하게 입력받은 값에 대해서 2진법으로 변환했을 때, 1의 개수를 세는 것     
+간단하게 64cm를 반으로 자르면 만들 수 있는 막대기는 64, 32, 16, 8, 4, 2, 1이다.    
+이는 각각 100 0000, 010 0000, 001 0000, 000 1000, 000 0100, 000 0010, 000 0001이다.     
+이것에 대한 조합으로 23을 만들기 위해서는 16, 4, 2, 1 -> 001 0000, 000 0100, 000 0010, 000 0001 이며, 이에 대한 합은 001 0111이고 23을 이진법으로 변환한 001 0111과 동일하다.     
+따라서, 23을 2진법으로 변환하고 그 1의 개수를 세는 것이 답이다.
+
+- 정답 코드
+
+```kotlin
+class Boj1094 {
+    companion object{
+        @JvmStatic
+        fun main(args: Array<String>){
+            var n = readln().toInt()
+            var count = 0
+            while(n != 0){
+                if(n.mod(2) == 1) count++
+                n /= 2
+            }
+            println(count)
+
+        }
+    }
+}
+```
