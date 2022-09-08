@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ShoppingMall Clone Coding"
-date: 2022-09-06
+date: 2022-02-02
 excerpt: "Project"
 project: true
 tags: [project]
@@ -10,14 +10,13 @@ comments: true
 
 # FILOT SHOPPING MALL - Shopping mall Clone Coding
 ## 👀 Overview
-- 한줄 소개
-    - Android에 적응을 위한 쇼핑몰 클론코딩
-- 진행기간
-    - 2022.02.02 ~ 2022.04.02
-- Skills
-    - Glide, Retrofit2, Coroutine
-- 팀구성
-    - Android 1 / Spring 1
+| | |
+|:---:|:---|
+|한줄 소개|Android에 적응을 위한 쇼핑몰 클론코딩|
+|진행기간|2022.02.02 ~ 2022.04.02|
+|Skills|Glide, Retrofit2, Coroutine|
+|팀구성|Android 1 / Spring 1|
+| | |
 <!-- - (선택) 관련활동 -->
 
 ## ❓ 개발 의도 및 개발 목표

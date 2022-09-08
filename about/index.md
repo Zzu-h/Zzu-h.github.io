@@ -32,17 +32,27 @@ comments: false
 <br>
 
 ## 💻 Projects
-#### 쇼핑몰 클론코딩 (2022.03 ~ 2022.05)
-- [한줄 소개](https://zzu-h.github.io/ShoppingMall/)
-    - 한줄 소개
-        - Android에 적응을 위한 쇼핑몰 클론코딩
-    - 진행기간
-        - 2022.02.02 ~ 2022.04.02
-    - Skills
-        - Glide, Retrofit2, Coroutine
+### 쇼핑몰 클론코딩
+| | |
+|:---:|:---|
+|한줄 소개|Android에 적응을 위한 쇼핑몰 클론코딩|
+|진행기간|2022.02.02 ~ 2022.04.02|
+|Skills|Glide, Retrofit2, Coroutine|
+|팀구성|Android 1 / Spring 1|
+| | |
+- [Detail](https://zzu-h.github.io/ShoppingMall/)
 
 #### MyAR (2022.03 ~ )
-#### 최단경로 찾기 SDK (2022.03 ~ )
+#### 최단경로 찾기 SDK (2022.02 ~ )
+| | |
+|:---:|:---|
+|한줄 소개|N개의 지점에 대한 최단 경로를 찾아주는 Sdk|
+|진행기간|2022.02.02 ~ 진행중|
+|Skills|Gson, Retrofit2, Service Component, Naver Map SDK|
+|팀구성|Android 1|
+| | |
+- [Detail](https://zzu-h.github.io/FindShortestPath/)
+
 #### Battle's (2022.08 ~ 2022.09)
 
 <br>
