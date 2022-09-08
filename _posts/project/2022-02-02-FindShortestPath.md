@@ -2,7 +2,7 @@
 layout: post
 title: "Find Shortest Path"
 date: 2022-02-02
-excerpt: "Project"
+excerpt: "N개의 지점에 대한 최단 경로를 찾아주는 Sdk"
 project: true
 tags: [project]
 comments: true

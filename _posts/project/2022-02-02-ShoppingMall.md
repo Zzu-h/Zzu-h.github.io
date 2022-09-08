@@ -2,7 +2,7 @@
 layout: post
 title: "ShoppingMall Clone Coding"
 date: 2022-02-02
-excerpt: "Project"
+excerpt: "Android에 적응을 위한 쇼핑몰 클론코딩"
 project: true
 tags: [project]
 comments: true
