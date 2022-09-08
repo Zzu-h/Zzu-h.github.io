@@ -40,9 +40,9 @@ comments: false
 |진행기간|2022.02.02 ~ 2022.04.02|
 |Skills|Glide, Retrofit2, Coroutine|
 |팀구성|Android 1 / Spring 1|
-| | |
+| | [Detail](https://zzu-h.github.io/ShoppingMall/) |
 
-- [Detail](https://zzu-h.github.io/ShoppingMall/)
+<br>
 
 #### MyAR (2022.03 ~ )
 
@@ -52,9 +52,9 @@ comments: false
 |진행기간|2022.03.28 ~ 진행중|
 |Skills|Gson, Retrofit2, Google Map SDK, Coroutine, AR SDK, Multi Module, Flow|
 |팀구성|Android 2, AR 1, Spring 2|
-| | |
+| | [Detail](https://zzu-h.github.io/MyAR/) |
 
-- [Detail](https://zzu-h.github.io/MyAR/)
+<br>
 
 #### 최단경로 찾기 SDK (2022.02 ~ )
 
@@ -64,9 +64,9 @@ comments: false
 |진행기간|2022.02.02 ~ 진행중|
 |Skills|Gson, Retrofit2, Service Component, Naver Map SDK|
 |팀구성|Android 1|
-| | |
+| | [Detail](https://zzu-h.github.io/FindShortestPath/) |
 
-- [Detail](https://zzu-h.github.io/FindShortestPath/)
+<br>
 
 #### Battle's (2022.08 ~ 2022.09)
 
@@ -76,9 +76,7 @@ comments: false
 |진행기간|2022.07.02 ~ 2022.08.28|
 |Skills|Retrofit2, Gson, Data Binding, MPAndroidChart, Coroutine, Flow|
 |팀구성|Android 2, Spring 2, Designer 1|
-| | |
-
-- [Detail](https://zzu-h.github.io/Battles/)
+| | [Detail](https://zzu-h.github.io/Battles/) |
 
 <br>
 <br>
