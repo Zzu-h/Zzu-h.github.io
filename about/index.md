@@ -33,6 +33,7 @@ comments: false
 
 ## 💻 Projects
 ### 쇼핑몰 클론코딩
+
 | | |
 |:---:|:---|
 |한줄 소개|Android에 적응을 위한 쇼핑몰 클론코딩|
@@ -40,10 +41,23 @@ comments: false
 |Skills|Glide, Retrofit2, Coroutine|
 |팀구성|Android 1 / Spring 1|
 | | |
+
 - [Detail](https://zzu-h.github.io/ShoppingMall/)
 
 #### MyAR (2022.03 ~ )
+
+| | |
+|:---:|:---|
+|한줄 소개|위치 기반 서비스를 통한 AR 다이어리|
+|진행기간|2022.03.28 ~ 진행중|
+|Skills|Gson, Retrofit2, Google Map SDK, Coroutine, AR SDK, Multi Module, Flow|
+|팀구성|Android 2, AR 1, Spring 2|
+| | |
+
+- [Detail](https://zzu-h.github.io/MyAR/)
+
 #### 최단경로 찾기 SDK (2022.02 ~ )
+
 | | |
 |:---:|:---|
 |한줄 소개|N개의 지점에 대한 최단 경로를 찾아주는 Sdk|
@@ -51,9 +65,20 @@ comments: false
 |Skills|Gson, Retrofit2, Service Component, Naver Map SDK|
 |팀구성|Android 1|
 | | |
+
 - [Detail](https://zzu-h.github.io/FindShortestPath/)
 
 #### Battle's (2022.08 ~ 2022.09)
+
+| | |
+|:---:|:---|
+|한줄 소개|각종 게임, 대회, 프로젝트 등 학교별 대전을 통해 순위를 매기는 플랫폼입니다!|
+|진행기간|2022.07.02 ~ 2022.08.28|
+|Skills|Retrofit2, Gson, Data Binding, MPAndroidChart, Coroutine, Flow|
+|팀구성|Android 2, Spring 2, Designer 1|
+| | |
+
+- [Detail](https://zzu-h.github.io/Battles/)
 
 <br>
 <br>
