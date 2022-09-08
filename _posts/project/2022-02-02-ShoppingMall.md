@@ -10,6 +10,7 @@ comments: true
 
 # FILOT SHOPPING MALL - Shopping mall Clone Coding
 ## 👀 Overview
+
 | | |
 |:---:|:---|
 |한줄 소개|Android에 적응을 위한 쇼핑몰 클론코딩|
@@ -17,6 +18,7 @@ comments: true
 |Skills|Glide, Retrofit2, Coroutine|
 |팀구성|Android 1 / Spring 1|
 | | |
+
 <!-- - (선택) 관련활동 -->
 
 ## ❓ 개발 의도 및 개발 목표
