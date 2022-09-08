@@ -40,6 +40,7 @@ comments: false
         - 2022.02.02 ~ 2022.04.02
     - Skills
         - Glide, Retrofit2, Coroutine
+
 #### MyAR (2022.03 ~ )
 #### 최단경로 찾기 SDK (2022.03 ~ )
 #### Battle's (2022.08 ~ 2022.09)

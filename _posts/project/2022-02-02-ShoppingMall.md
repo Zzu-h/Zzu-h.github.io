@@ -9,7 +9,7 @@ comments: true
 ---
 
 # FILOT SHOPPING MALL - Shopping mall Clone Coding
-## Overview
+## 👀 Overview
 - 한줄 소개
     - Android에 적응을 위한 쇼핑몰 클론코딩
 - 진행기간
@@ -20,7 +20,7 @@ comments: true
     - Android 1 / Spring 1
 <!-- - (선택) 관련활동 -->
 
-## 개발 의도 및 개발 목표
+## ❓ 개발 의도 및 개발 목표
 ### 기획 의도
 1. <Android with Kotlin> 에 대해 학습한 애용을 종합적으로 검증하기 위하여
 2. 사용자로써 익숙한 쇼핑몰을  개발자 관점으로써 필요기능을 인식하고 설계하여 구현하는 일련의 프로세스를 이해하고 적용해보자는 목적으로 기획 
@@ -41,7 +41,7 @@ comments: true
 1. 원하는 옷을 수량과 함께 장바구니에 담기
 2. 주문한 앱에 한해서 별점과 리뷰를 메길 수 있음
 
-## 기술 스택
+## 🛠 기술 스택
 - Glide
     - 비동기 이미지 처리를 간편하게 수행해주며, 이미지 캐싱처리를 도와 사용자의 부담을 줄일 수 있습니다.
 - Retrofit2
@@ -49,7 +49,7 @@ comments: true
 - Coroutine
     - 비동기 처리를 위해 사용
 
-## 개발 내용
+## 🖥 개발 내용
 ### 회원가입 및 로그인
 #### 회원가입 메일 인증
 메일이 중복인지 체크를하도록 중복 체크 기능을 구현했으며, 메일 인증을 구현했습니다.    
@@ -93,7 +93,7 @@ TableLayout을 활용해 상품들을 관리할 수 있으며, 롱클릭 시 상
 
 <!-- ## 성장 경험 -->
 
-## 서비스 화면
+## 📱 서비스 화면
 <img width="1160" alt="MainPage" src="https://user-images.githubusercontent.com/72387349/188935260-8243d3b4-01a6-441a-bcd7-3502e2aeba39.png">
 <img width="1126" alt="signup" src="https://user-images.githubusercontent.com/72387349/188935356-dcc37548-9f7f-44a2-b3c5-853e66eb66b6.png">
 <img width="1126" alt="signupsuccess" src="https://user-images.githubusercontent.com/72387349/188935467-c57413d6-1dfa-452d-8b07-7054ef9c2bc3.png">
