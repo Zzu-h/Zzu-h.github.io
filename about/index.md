@@ -21,17 +21,37 @@ comments: false
 <br>
 
 ## 🫧 Activities
-#### 2021 인하대학교 IUPC 프로그래밍 경진대회 (2021.01)
 #### 2022 Inbody Intern (2022.01 ~ 2022.02)
 #### 2022 한이음 프로젝트 AR 개발 (2022.03 ~)
 #### 2022 University MakeUs Challenge [UMC] 2기 (2022.03 ~ 2022.09)
 #### 2022 우아한 테크 캠프 5기 - Android (2022.07 ~ 2022.08)
-#### 2022 University MakeUs Challenge [UMC] 3기 Android 파트장 (2022.09 ~)
+#### 2022 University MakeUs Challenge [UMC] 3기 Android 파트장 (2022.09 ~ 2022.12)
+#### 2022 컴퓨터 공학과 해커톤 (2022.12) - 🏆 1등 수상
 
 <br>
 <br>
 
 ## 💻 Projects
+### ArtWhale
+
+| | |
+|:---:|:---|
+|한줄 소개|Album을 그려주는 AI와 이를 공유하는 플랫폼 서비스|
+|진행기간|2022.09.28 ~ 2022.11.29|
+|Skills|Glide, Retrofit2, Coroutine, Flow, LiveData, Hilt, RoomDB, FileUtil, ViewModel|
+|팀구성|Android 1 / Spring 1|
+| | [Detail](https://zzu-h.github.io/ArtWhale/) |
+
+### 놀러온 학교!
+
+| | |
+|:---:|:---|
+|한줄 소개|대학 캠퍼스 챌린지 플랫폼 놀러온 학교!|
+|진행기간|2022.12.18 ~ 2022.12.19|
+|Skills|Glide, Retrofit2, Coroutine, Flow, Hilt, FileUtil, ViewModel|
+|팀구성|Android 1 / Spring 2|
+| | [Detail](https://zzu-h.github.io/NollHak/) |
+
 ### 쇼핑몰 클론코딩
 
 | | |
@@ -44,12 +64,12 @@ comments: false
 
 <br>
 
-#### MyAR (2022.03 ~ )
+#### MyAR (2022.03 ~ 2022.11)
 
 | | |
 |:---:|:---|
 |한줄 소개|위치 기반 서비스를 통한 AR 다이어리|
-|진행기간|2022.03.28 ~ 진행중|
+|진행기간|2022.03.28 ~ 2022.11.28|
 |Skills|Gson, Retrofit2, Google Map SDK, Coroutine, AR SDK, Multi Module, Flow|
 |팀구성|Android 2, AR 1, Spring 2|
 | | [Detail](https://zzu-h.github.io/MyAR/) |
